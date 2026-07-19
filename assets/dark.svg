@@ -1,0 +1,9 @@
+<svg width="1180" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1180" height="300" fill="#0d1117"/>
+  <text x="50%" y="45%" fill="#58a6ff" font-size="42" text-anchor="middle" font-family="Arial">
+    Hi 👋 I'm Akshata Mashetti
+  </text>
+  <text x="50%" y="65%" fill="#c9d1d9" font-size="24" text-anchor="middle" font-family="Arial">
+    Full Stack Developer • AI Enthusiast • MCA Student
+  </text>
+</svg>
