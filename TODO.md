@@ -1,0 +1,11 @@
+- [x] Generate assets/dark.svg (pure SVG, SMIL animations)
+- [x] Generate assets/light.svg (pure SVG, SMIL animations)
+- [x] Ensure folders exist: assets/, images/, .github/workflows/
+- [x] Completely rewrite README.md with world-class layout
+- [x] Create .github/workflows/snake.yml
+- [x] Improve README styling (badges, icons, tables, premium layout)
+- [x] Optimize SVGs (small size, responsive, GitHub compatible)
+- [x] Verify paths and fix broken images/markdown/SVG rendering
+- [x] Prepare repo for deployment (sanity checks)
+- [x] Run repository audit and fix issues
+- [x] Final report: files created/modified + summary
